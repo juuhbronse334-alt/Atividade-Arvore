@@ -33,7 +33,7 @@ python --version
 Como executar
 
 1. Clone este repositório:
-git clone https://github.com/juuhbronse334-alt/Atividade-Arvore/
+git clone https://github.com/juuhbronse334-alt/Atividade-Arvore/tree/main
 
 
 2. Entre na pasta do projeto:
